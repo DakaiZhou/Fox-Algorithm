@@ -38,3 +38,5 @@ To simplify the disscussion, we assume have 3x3(nxn) matrix and p = 9 processes(
 => cij = aii*bij + ai,i+1*bi+1,j + ... + ai,n-1*bn-1,j + ai0*b0j + ... + ai,i-1*bi-1,j
 
 Reference: http://csis.uni-wuppertal.de/courses/scripts/lab2_chapters/PP4.pdf
+
+Test data sets:
